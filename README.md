@@ -37,13 +37,10 @@ The sniping bot can be used in three different cases:
 - First you need a Ethereum (ERC) / Binance Smart Chain (BSC) wallet, such as [Metamask](https://metamask.io/) which is easily configurable.
 - Once you create your wallet, you need to save the wallet address (started with 0x...) and the private key, which will be used to perform the transactions using your wallet. For detailed instructions on how to export the private key refer to this [article](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key).
 - You need BNB to trade. It can be purchased on [Binance](https://www.binance.com/) or any other exchange. The only thing you need to do is transfer those BNBs to your wallet.
-- Download the executable (**barrett.exe** for windows and **barrett.bin** for linux) and run it.
+- Download the executable and run it.
 - Fill the edit-text boxes with your wallet information and the token you want to purchase. Configure the sniper as you wish.
 - Press the Snipe button to start sniping.
 
-
-## Demo
-https://user-images.githubusercontent.com/85341939/122640689-2f14d900-d101-11eb-800d-b64b5327e188.mp4
 
 ## Disclaimer
 
