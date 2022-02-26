@@ -1,6 +1,6 @@
 # Pancakeswap Sniper Bot
 
-PancakeSwap sniper bot. 
+PancakeSwap sniper bot.
 
 > Automated sniping bot to snipe crypto coin launches.
 
